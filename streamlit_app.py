@@ -1,6 +1,8 @@
 import streamlit as st
 
-st.title("🎈 My new app")
-st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
+st.title("Troca e doação de habilidades comunitárias")
+st.header("Seu próprio Banco de Tempo e Conhecimento", divider=True)
+st.subheader("Seu próprio Banco de Tempo e Conhecimento")
+st.write( 
+    "O objetivo principal desta plataforma é criar um ecosssitema digital local que facilite a troca mútua de serviços e a doação de tempo e conhecimento entre os membros de uma comunidade."
 )
